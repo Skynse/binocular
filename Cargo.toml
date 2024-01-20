@@ -1,0 +1,12 @@
+[package]
+name = "binocular"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+eframe = "0.25.0"
+gstreamer = "0.21.3"
+gstreamer-base = "0.21.2"
+gstreamer-video = "0.21.2"
